@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit1verma" alt="rohit1verma" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://rohit-portfolio-five-phi.vercel.app](https://rohit-portfolio-five-phi.vercel.app)
 
 - 📫 How to reach me **vermarohit7780@gmail.com**
